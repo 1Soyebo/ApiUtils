@@ -7,6 +7,12 @@
 
 import UIKit
 
+class HelperClass{
+    
+    static let baseUrl = ""
+}
+
+
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
