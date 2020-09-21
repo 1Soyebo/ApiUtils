@@ -6,6 +6,8 @@ target 'ApiUtils' do
   use_frameworks!
 
   pod 'Alamofire'
+  pod 'PKHUD'
+
   # Pods for ApiUtils
 
 end
